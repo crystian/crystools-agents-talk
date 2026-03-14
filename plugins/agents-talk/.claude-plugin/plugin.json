@@ -1,0 +1,9 @@
+{
+  "name": "agents-talk",
+  "description": "Chat-like monitor for agent-to-agent communication. Logs colored, timestamped messages with duration, tokens, and tool counts to a file you can tail -f.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Crystian",
+    "linkedin": "https://www.linkedin.com/in/crystian"
+  }
+}
