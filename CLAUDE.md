@@ -1,4 +1,4 @@
-# Crystools Talk Plugin
+# Agents Talk Plugin
 
 ## Project Overview
 
