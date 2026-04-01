@@ -1,0 +1,18 @@
+{
+  "name": "crystools-talk",
+  "version": "0.0.0",
+  "description": "Chat-like monitor for agent-to-agent communication. Logs colored, timestamped messages with duration, tokens, and tool counts.",
+  "author": {
+    "name": "Crystian",
+    "url": "https://www.linkedin.com/in/crystian"
+  },
+  "repository": "https://github.com/crystian/crystools-talks",
+  "license": "MIT",
+  "keywords": [
+    "monitoring",
+    "agents",
+    "logging",
+    "debugging"
+  ],
+  "category": "monitoring"
+}

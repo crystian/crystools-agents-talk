@@ -1,4 +1,4 @@
-# agents-talk
+# crystools-talk
 
 Claude Code plugin that monitors agent-to-agent communication in a chat-like format.
 
@@ -25,18 +25,9 @@ Logs colored, timestamped messages with duration, token usage, and tool counts t
 ### From marketplace (recommended)
 
 ```bash
-# Add the marketplace
-/plugin marketplace add crystian/claude-agents-talk
-
-# Install the plugin
-/plugin install agents-talk@claude-agents-talk
+/install crystools-talk
 ```
 
-### Local (for development)
-
-```bash
-claude --plugin-dir /path/to/claude-agents-talk/plugins/agents-talk
-```
 
 ## Usage
 
@@ -57,15 +48,7 @@ The plugin automatically logs:
 | `PreToolUse` (Agent) | Prompt sent to the agent |
 | `PostToolUse` (Agent) | Response + stats (duration, tokens, tools) |
 | `SubagentStop` | Final response from background agents |
-
-## Agent colors
-
-| Agent | Color |
-|---|---|
-| api-agent | Blue |
-| app-agent | Green |
-| commit-agent | Cyan |
-| Others | Cyan |
+| `SessionStart` | Plugin loaded notification |
 
 ## License
 
