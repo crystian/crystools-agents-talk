@@ -1,4 +1,4 @@
-# crystools-talk
+# crystools-agents-talk
 
 Claude Code plugin that monitors agent-to-agent communication in a chat-like format.
 
@@ -22,10 +22,9 @@ Logs colored, timestamped messages with duration, token usage, and tool counts t
 
 ## Installation
 
-### From marketplace (recommended)
-
 ```bash
-/install crystools-talk
+claude plugin marketplace add crystian/mia-marketplace
+claude plugin install crystools-agents-talk@mia-marketplace
 ```
 
 
