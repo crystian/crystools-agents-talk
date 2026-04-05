@@ -13,6 +13,5 @@
     "agents",
     "logging",
     "debugging"
-  ],
-  "category": "monitoring"
+  ]
 }
