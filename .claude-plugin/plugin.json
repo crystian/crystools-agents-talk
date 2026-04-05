@@ -1,6 +1,6 @@
 {
   "name": "crystools-agents-talk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Chat-like monitor for agent-to-agent communication. Logs colored, timestamped messages with duration, tokens, and tool counts.",
   "author": {
     "name": "Crystian",
